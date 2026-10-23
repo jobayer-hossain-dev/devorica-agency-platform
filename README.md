@@ -1,5 +1,9 @@
 # 🚀 Devorica Agency — Web Platform & Design System Showcase
 
+[![Project Website](https://img.shields.io/badge/Project_Website-Visit-2563EB?style=flat-square)](https://www.devorica.com) [![Developer Portfolio](https://img.shields.io/badge/Developer-Portfolio-334155?style=flat-square)](https://jobayerportfolio.vercel.app)
+
+**Project website:** https://www.devorica.com
+
 ![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -7,7 +11,6 @@
 
 > The flagship web platform and enterprise design system showcase for **Devorica Agency**. Demonstrates custom UI component systems, design guidelines, typography scales, and digital agency services.
 
-🔗 **Official Agency Site**: **[https://www.devorica.com](https://www.devorica.com)**
 
 ---
 
@@ -25,7 +28,7 @@ Contains comprehensive design system specifications:
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/jobayerhossain-ai/devorica-agency-platform.git
+git clone https://github.com/jobayer-hossain-dev/devorica-agency-platform.git
 cd devorica-agency-platform
 npm install
 npm run dev
